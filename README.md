@@ -1,12 +1,9 @@
 NUI
 ===
 
-Hızlı ve güçlü web arayüzleri geliştirmek adına front-end framework. 
-
+Hızlı ve güçlü web arayüzleri geliştirmek adına front-end framework olan NUI, sizlere kampsamlı bir altyapı sağlar. 
 <br>
-
 NUI kaynak dosyalarının ulaşımı için github deposunda saklanmaktadır. 
-
 <br>
 
 Özellik
