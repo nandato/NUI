@@ -18,5 +18,5 @@ NUI kaynak dosyalarının ulaşımı için github deposunda saklanmaktadır.
 
 <br>
 <br>
-<img src="http://fc05.deviantart.net/fs71/f/2012/288/2/5/cliffhangers_by_kaimukiwahine-d5hupdy.jpg">
+<img src="http://fc05.deviantart.net/fs71/f/2012/288/2/5/cliffhangers_by_kaimukiwahine-d5hupdy.jpg"><br>
 Nandato!??
